@@ -4,4 +4,5 @@ def meal_choice("name = meal_choice")
   puts "#{name}"
 end
 
-meal_choice
+meal_choice("meat")
+
