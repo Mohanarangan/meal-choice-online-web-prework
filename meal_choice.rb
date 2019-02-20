@@ -4,3 +4,4 @@ def meal_choice("name = meal_choice")
   puts "Hello, #{name}"
 end
 
+meal_choice
